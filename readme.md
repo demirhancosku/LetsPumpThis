@@ -1,5 +1,5 @@
 # PUMP DUMP - Kriptokörınsi - Eth ve Balık Kurumu
-First of all you to run this bot, make sure to have node.js + npm installed.
+Firstly, make sure node.js + npm installed.
 
 How to use;
 
@@ -20,7 +20,6 @@ module.exports =  {
 ```
 ### 2) Installation
 
-Just
 ```shell
  npm install
 ```
@@ -31,4 +30,4 @@ Just
 ```
 
 ### Last but not least;
-After a few PUMP if you get some shitcoins, you can send me ETH for not being parasitic asshole: 0x07a067f7ed6769d7d8172e386340e83e3da16107
+After a few PUMP if you get some shitcoins, you can send me ETH for not being parasitic ***: 0x07a067f7ed6769d7d8172e386340e83e3da16107
